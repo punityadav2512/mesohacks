@@ -20,7 +20,7 @@ We were able to build and deploy the backend of our Heroku-hosted application. H
 Project Screenshots:
 ![Home1](https://user-images.githubusercontent.com/90172285/188308227-943368db-4ea5-4c2f-b6ff-62ce08cda74d.png)
 
-![Uploading Home1.png…]()![Login](https://user-images.githubusercontent.com/90172285/188308235-65c5c671-19aa-4ec1-93e1-260dce8254b7.png)
+![Login](https://user-images.githubusercontent.com/90172285/188308517-458a1755-e2bb-451b-9b70-ccd9c2e111b9.png)
 
 ![Register](https://user-images.githubusercontent.com/90172285/188308255-fdbbfac3-6941-486f-a6a5-a54564b03c5a.png)
 
